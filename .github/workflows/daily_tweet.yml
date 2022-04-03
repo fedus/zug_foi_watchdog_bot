@@ -1,4 +1,4 @@
-name: advent_tweet
+name: daily_tweet
 
 on:
     workflow_dispatch:
